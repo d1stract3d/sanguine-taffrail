@@ -1,6 +1,4 @@
 # README
 
-This README documents the first application Six is building with Rails.
-
-# Alright alright alright . . .
+This README documents the first application I am building with Rails.
 
